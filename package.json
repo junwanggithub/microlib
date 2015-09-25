@@ -1,0 +1,27 @@
+{
+  "name": "microlib",
+  "version": "1.0.0",
+  "description": "a full micro lib",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junwanggithub/microlib.git"
+  },
+  "keywords": [
+    "javascript",
+    "lib"
+  ],
+  "author": "Jun Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junwanggithub/microlib/issues"
+  },
+  "homepage": "https://github.com/junwanggithub/microlib#readme",
+  "dependencies": {
+    "country-data": "0.0.23",
+    "unique-random-array": "^1.0.0"
+  }
+}
